@@ -1,4 +1,7 @@
 # react-cc
+
+Project is built with React.js and needs to have Node.js installed  
+
 Installation:
   * Copy the project (git clone https://github.com/toivomattila/react-cc.git)
   * Change directory to react-cc
