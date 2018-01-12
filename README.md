@@ -8,6 +8,6 @@ Installation:
 Script for Linux:
 
 git clone https://github.com/toivomattila/react-cc.git  
-cd react-cc  
+cd react-cc/ccproject  
 npm install  
 npm start  
