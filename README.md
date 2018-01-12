@@ -1,6 +1,16 @@
 # react-cc
 Installation:
-  * Create a folder for the app
-  * Copy the project to the folder (git clone https://github.com/toivomattila/react-cc.git)
+  * Copy the project (git clone https://github.com/toivomattila/react-cc.git)
+  * Change directory to react-cc
   * npm install
   * npm start
+
+Script for Linux:
+
+git clone https://github.com/toivomattila/react-cc.git
+
+cd react-cc
+
+npm install
+
+npm start
