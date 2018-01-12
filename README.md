@@ -7,10 +7,7 @@ Installation:
 
 Script for Linux:
 
-git clone https://github.com/toivomattila/react-cc.git
-
-cd react-cc
-
-npm install
-
-npm start
+git clone https://github.com/toivomattila/react-cc.git  
+cd react-cc  
+npm install  
+npm start  
